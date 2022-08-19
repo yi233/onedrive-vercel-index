@@ -190,7 +190,7 @@ packages:
     dev: false
 
   /@fortawesome/free-brands-svg-icons/6.1.2:
-    resolution: {integrity: sha512-f1witbwycL9cTENJegcmcZRYyawAFbm8+c6IirLmwbbpqz46wyjbQYLuxOc7weXFXfB7QR8/Vd2u5R3q6JYD9g==}
+    resolution: {integrity: sha512-b2eMfXQBsSxh52pcPtYchURQs6BWNh3zVTG8XH8Lv6V4kDhEg7D0kHN+K1SZniDiPb/e5tBlaygsinMUvetITA==}
     engines: {node: '>=6'}
     requiresBuild: true
     dependencies:
