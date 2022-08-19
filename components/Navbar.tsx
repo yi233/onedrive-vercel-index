@@ -116,7 +116,7 @@ const Navbar = () => {
             rel="noopener noreferrer"
             className="p-2 rounded hover:bg-gray-200 dark:text-white dark:hover:bg-gray-700"
           >
-            <FontAwesomeIcon icon={['fab', 'bilibili']} size="lg" />
+            <FontAwesomeIcon icon={faBilibili} size="lg" />
             <span className="hidden text-sm font-medium md:inline-block">
               {
                 t('Bilibili')
