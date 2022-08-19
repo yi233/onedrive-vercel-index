@@ -108,7 +108,7 @@ library.add(
   faTh,
   faThLarge,
   faThList,
-  fa-bilibili
+  faBilibili
   faLanguage,
   faPen,
   ...iconList
