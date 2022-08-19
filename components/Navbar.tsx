@@ -110,19 +110,6 @@ const Navbar = () => {
                 </span>
               </a>
             ))}        
-          <a
-            href="https://space.bilibili.com/401315430"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="p-2 rounded hover:bg-gray-200 dark:text-white dark:hover:bg-gray-700"
-          >
-            <FontAwesomeIcon icon={faBilibili} size="lg" />
-            <span className="hidden text-sm font-medium md:inline-block">
-              {
-                t('Bilibili')
-              }
-            </span>
-          </a>
 
           {siteConfig.email && (
             <a href={siteConfig.email} className="flex items-center space-x-2 hover:opacity-80 dark:text-white">
