@@ -53,7 +53,7 @@ import {
   faLanguage,
 } from '@fortawesome/free-solid-svg-icons'
 import * as Icons from '@fortawesome/free-brands-svg-icons'
-import { faGithub, faBilibili, faMarkdown } from '@fortawesome/free-brands-svg-icons'
+import { faGithub, fabilibili, faMarkdown } from '@fortawesome/free-brands-svg-icons'
 import type { AppProps } from 'next/app'
 import NextNProgress from 'nextjs-progressbar'
 import { appWithTranslation } from 'next-i18next'
@@ -110,7 +110,7 @@ library.add(
   faThList,
   faLanguage,
   faPen,
-  faBilibili,
+  fabilibili,
   ...iconList
 )
 
