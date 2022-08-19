@@ -53,7 +53,7 @@ import {
   faLanguage,
 } from '@fortawesome/free-solid-svg-icons'
 import * as Icons from '@fortawesome/free-brands-svg-icons'
-import { fab  } from '@fortawesome/free-brands-svg-icons'
+import { fab } from '@fortawesome/free-brands-svg-icons'
 library.add(fab)
 import type { AppProps } from 'next/app'
 import NextNProgress from 'nextjs-progressbar'
